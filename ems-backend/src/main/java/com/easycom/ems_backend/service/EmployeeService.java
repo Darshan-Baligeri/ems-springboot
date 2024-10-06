@@ -1,6 +1,6 @@
-package com.javaguides.ems_backend.service;
+package com.easycom.ems_backend.service;
 
-import com.javaguides.ems_backend.dto.EmployeeDto;
+import com.easycom.ems_backend.dto.EmployeeDto;
 
 import java.util.List;
 

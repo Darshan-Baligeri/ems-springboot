@@ -1,19 +1,16 @@
-package com.javaguides.ems_backend.service.impl;
+package com.easycom.ems_backend.service.impl;
 
-import com.javaguides.ems_backend.dto.EmployeeDto;
-import com.javaguides.ems_backend.entity.Employee;
-import com.javaguides.ems_backend.exception.ResourceNotFoundException;
-import com.javaguides.ems_backend.repository.EmployeeRepository;
-import com.javaguides.ems_backend.service.EmployeeService;
+import com.easycom.ems_backend.dto.EmployeeDto;
+import com.easycom.ems_backend.entity.Employee;
+import com.easycom.ems_backend.exception.ResourceNotFoundException;
+import com.easycom.ems_backend.repository.EmployeeRepository;
+import com.easycom.ems_backend.service.EmployeeService;
 import lombok.AllArgsConstructor;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import com.javaguides.ems_backend.mapper.EmployeeMapper;
+import com.easycom.ems_backend.mapper.EmployeeMapper;
 
 import java.util.List;
 import java.util.stream.Collectors;
-
-import static org.antlr.v4.runtime.tree.xpath.XPath.findAll;
 
 @Service
 @AllArgsConstructor

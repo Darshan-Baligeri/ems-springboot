@@ -1,7 +1,7 @@
-package com.javaguides.ems_backend.controller;
+package com.easycom.ems_backend.controller;
 
-import com.javaguides.ems_backend.dto.EmployeeDto;
-import com.javaguides.ems_backend.service.EmployeeService;
+import com.easycom.ems_backend.dto.EmployeeDto;
+import com.easycom.ems_backend.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

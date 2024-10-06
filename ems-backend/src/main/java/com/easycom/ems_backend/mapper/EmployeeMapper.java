@@ -1,7 +1,7 @@
-package com.javaguides.ems_backend.mapper;
+package com.easycom.ems_backend.mapper;
 
-import com.javaguides.ems_backend.dto.EmployeeDto;
-import com.javaguides.ems_backend.entity.Employee;
+import com.easycom.ems_backend.dto.EmployeeDto;
+import com.easycom.ems_backend.entity.Employee;
 
 public class EmployeeMapper {
 

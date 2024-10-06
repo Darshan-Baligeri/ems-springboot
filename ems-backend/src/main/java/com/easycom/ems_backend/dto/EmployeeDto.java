@@ -1,4 +1,4 @@
-package com.javaguides.ems_backend.dto;
+package com.easycom.ems_backend.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

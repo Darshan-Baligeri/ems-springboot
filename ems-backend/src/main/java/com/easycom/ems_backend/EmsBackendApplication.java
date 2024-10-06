@@ -1,4 +1,4 @@
-package com.javaguides.ems_backend;
+package com.easycom.ems_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
